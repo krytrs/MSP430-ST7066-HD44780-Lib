@@ -7,7 +7,6 @@
 
 #include "libLCD.h"
 
-
 /******************************\
 |* Helper Function Prototypes *|
 \******************************/
