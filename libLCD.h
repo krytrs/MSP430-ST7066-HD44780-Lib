@@ -28,6 +28,8 @@
 #define     _delay_milliseconds(msecs) \
                __delay_cycles(((msecs) * (MCU_XTAL_TIME)))
 
+// pokus jak funguje wakatime
+// atomic_commit
 
 /***************************************\
 |* Define Ports Used for Communication *| For now, all pins should be on the same port
